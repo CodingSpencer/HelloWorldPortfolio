@@ -1,23 +1,15 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+Today we are attempting to create a file that runs a program that will print "Hello World!" to the console. We're doing this to practice creating a repository and commiting our work onto GitHub.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The tools we used today included: git, GitHub, and Visual Studio Code.
 
-{Describe the programming language that you used}
+Python File
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [GitHub Repository](https://github.com/CodingSpencer/HelloWorldPortfolio.git)
