@@ -2,7 +2,7 @@
 
 Today we are attempting to create a file that runs a program that will print "Hello World!" to the console. We're doing this to practice creating a repository and commiting our work onto GitHub.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/A-HK9cdH85I)
 
 # Development Environment
 
